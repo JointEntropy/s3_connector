@@ -1,0 +1,13 @@
+boto3==1.16.4
+minio==6.0.0
+loguru==0.5.3
+## The following requirements were added by pip freeze:
+botocore==1.19.22
+certifi==2020.6.20
+configparser==5.0.1
+jmespath==0.10.0
+python-dateutil==2.8.1
+pytz==2020.4
+s3transfer==0.3.3
+six==1.15.0
+urllib3==1.26.2
